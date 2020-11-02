@@ -1,7 +1,7 @@
 Hi 👋, I'm Peter Juma
 =====================
 
-### I'm a passionate frontend and backend developer, Linux and OSS technologies enthusiast.
+### I'm a passionate about providing technical solutions to end-users.
 
 *   🔭 I’m currently working on [a simple note-taking app](https://github.com/peterjuma/noteApp)
     
