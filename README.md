@@ -5,7 +5,7 @@ Hi 👋, I'm Peter Juma
     
 *   🌱 I’m currently learning **JS, React, Django, Python**
     
-*   💬 Ask me about **NodeJs, ExpressJs, MongoDB, ReactJs**
+*   💬 Ask me about **NodeJs, ExpressJs, MongoDB, ReactJs, Linux, Git, AWS Cloud, OracleDB, PostgresDB, Ansible, Terraform, Docker**
     
 
 <h3 align="left">Connect with me:</h3>
