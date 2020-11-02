@@ -2,8 +2,6 @@ Hi 👋, I'm Peter Juma
 =====================
 
 ### I'm a passionate about delivering exceptional end-user experience.
-
-*   🔭 I’m currently working on [a simple note-taking app](https://github.com/peterjuma/noteApp)
     
 *   🌱 I’m currently learning **Ember, React, Flask**
     
