@@ -3,7 +3,7 @@ Hi 👋, I'm Peter Juma
 
 ### I'm a passionate about delivering exceptional end-user experience.
     
-*   🌱 I’m currently learning **JS, React, Django, Python**
+*   🌱 I’m currently expanding my knowledge in **JS, React, Django, Python**
     
 *   💬 Ask me about **NodeJs, ExpressJs, MongoDB, ReactJs, Linux, Git, AWS Cloud, OracleDB, PostgresDB, Ansible, Terraform, Docker**
     
