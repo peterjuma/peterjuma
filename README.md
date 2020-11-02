@@ -3,9 +3,9 @@ Hi 👋, I'm Peter Juma
 
 ### I'm a passionate about delivering exceptional end-user experience.
     
-*   🌱 I’m currently learning **Ember, React, Flask**
+*   🌱 I’m currently learning **More JS, React, Django**
     
-*   💬 Ask me about **Nodejs, Expressjs, Mongodb, Reactjs**
+*   💬 Ask me about **NodeJs, ExpressJs, MongoDB, ReactJs**
     
 
 <h3 align="left">Connect with me:</h3>
