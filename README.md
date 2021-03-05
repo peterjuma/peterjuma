@@ -6,7 +6,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/peterjuma/peterjuma/ma
 
 My name is Peter Juma and I'm a Support Engineer/Web Developer/DevOps engineer. I live in Nairobi, Kenya, and work at GitHub as a Support Engineer.
 
-<hr>
+##
 
 :rocket:   Personal Website :  [![](https://img.shields.io/badge/-Tech%20blog-yellowgreen?style=for-the-badge&logo=github&link=https://peterjuma.github.io/)](https://peterjuma.com/)
 
