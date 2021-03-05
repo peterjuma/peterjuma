@@ -1,10 +1,10 @@
 ## Peter Juma : README
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Peter%20Juma&fontSize=50)
 
-Hi there ![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# Hello, folks! <img src="https://raw.githubusercontent.com/peterjuma/peterjuma/main/wave.gif" width="30px">
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### I'm a Web Developer & Support Engineer.
+My name is Peter Juma and I'm a Support Engineer/Web Developer/DevOps engineer. I live in Nairobi, Kenya, and work at GitHub as a Support Engineer.
 
 ### :white_check_mark:   About me
 
