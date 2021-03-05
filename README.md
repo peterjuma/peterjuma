@@ -1,4 +1,3 @@
-## Peter Juma : README
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Peter%20Juma&fontSize=50)
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/peterjuma/peterjuma/main/wave.gif" width="30px">
