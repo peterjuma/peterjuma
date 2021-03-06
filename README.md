@@ -12,7 +12,7 @@ My name is Peter Juma and I'm a Support Engineer/Web Developer/DevOps engineer. 
 
 :rocket:   Resume :   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterwjuma)
 
-## ✅   Skills
+## ✅   Skills <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/274/man-technologist_1f468-200d-1f4bb.png" width="30px">
 
 ![Python](https://img.shields.io/badge/python%20-%236DB33F.svg?&style=for-the-badge&logo=python&logoColor=white)  ![Django](https://img.shields.io/badge/django%20-%236DB33F.svg?&style=for-the-badge&logo=django&logoColor=white)  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)  ![Rails](https://img.shields.io/badge/rails-%23CC342D.svg?&style=for-the-badge&logo=rails&logoColor=white) 
 
